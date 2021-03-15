@@ -28,7 +28,7 @@ example csv of cleaned up inmate data
 I wanted to provide a broad data analysis of Nebraka Inmates, who they were, what their crimes were, and the data trends among them. 
 
 ## Build status
-The project are currently still in the refining process and are missing some notation.
+The project is currently completed for Thesis submission, but may contain updates in the future. 
 
 ## Tech/framework used
 I used Python through Jupyter Notebooks to do these projects.
