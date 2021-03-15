@@ -2,7 +2,8 @@
 ## Nebraska Inmate Project
 I peformed data analysis, data cleaning, and visualization work on Nebraska Inmate Data from the Nebraska Department of Corrections
 
-## The inmate data was separated into two sections, one based on inmate demographics, and the other on the inmates'offenses
+## Document Guide
+
 
 ## Motivation
 I wanted to provide a broad data analysis of Nebraka Inmates, who they were, what their crimes were, and the data trends among them. 
