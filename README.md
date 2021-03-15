@@ -5,15 +5,24 @@ I peformed data analysis, data cleaning, and visualization work on Nebraska Inma
 ## Document Guide
 #### Krause Thesis.docx 
 full written undergraduate thesis 
-Krause Thesis.pdf - full written undergraduate thesis 
-NE_inmates_demographics_1.ipynb - Jupyter Notebook code over inmate demographics data merging and cleaning
-NE_inmates_demographics_2.ipynb - Jupyter Notebook code over inmate demographics data exploration and visualization 
-NE_inmates_offenses_1.ipynb - Jupyter Notebook code over inmate offense data merging and cleaning
-NE_inmates_offenses_2.ipynb - Jupyter Notebook code over inmate offense data exploration and visualization 
-Offense Arrest Groups.xlsx - database of offense codes and names 
-inmateDB_updated.xlsx - full inmate database 
-inmateDownloadActive.xlsx - full active inmate database
-inmate_updatedClean_demographics.csv - example csv of cleaned up inmate data 
+#### Krause Thesis.pdf
+full written undergraduate thesis 
+#### NE_inmates_demographics_1.ipynb 
+Jupyter Notebook code over inmate demographics data merging and cleaning
+#### NE_inmates_demographics_2.ipynb 
+Jupyter Notebook code over inmate demographics data exploration and visualization 
+#### NE_inmates_offenses_1.ipynb 
+Jupyter Notebook code over inmate offense data merging and cleaning
+#### NE_inmates_offenses_2.ipynb 
+Jupyter Notebook code over inmate offense data exploration and visualization 
+#### Offense Arrest Groups.xlsx 
+database of offense codes and names 
+#### inmateDB_updated.xlsx 
+full inmate database 
+#### inmateDownloadActive.xlsx 
+full active inmate database
+#### inmate_updatedClean_demographics.csv 
+example csv of cleaned up inmate data 
 
 ## Motivation
 I wanted to provide a broad data analysis of Nebraka Inmates, who they were, what their crimes were, and the data trends among them. 
