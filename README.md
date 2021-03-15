@@ -3,7 +3,8 @@
 I peformed data analysis, data cleaning, and visualization work on Nebraska Inmate Data from the Nebraska Department of Corrections
 
 ## Document Guide
-Krause Thesis.docx - full written undergraduate thesis 
+#### Krause Thesis.docx 
+full written undergraduate thesis 
 Krause Thesis.pdf - full written undergraduate thesis 
 NE_inmates_demographics_1.ipynb - Jupyter Notebook code over inmate demographics data merging and cleaning
 NE_inmates_demographics_2.ipynb - Jupyter Notebook code over inmate demographics data exploration and visualization 
